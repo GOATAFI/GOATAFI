@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Linkedin : https://www.linkedin.com/in/nahid-parvez-153472212/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
